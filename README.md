@@ -1,33 +1,9 @@
 # Praktikum9
-## Panjang Umur Untuk Hal Hal Baik :)
-
-### Kode Eksepsinya
-
-while True:
-        try:
-            nim = int(input("Masukan NIM\t: "))
-            if nim == "":
-                print("NIM tidak boleh kosong")
-            else:
-                break
-        except:
-            print("Harap Masukan Angka")
-        else:
-            break
-        
-while True:
-        try:
-            nilai = int(input("Masukan Nilai\t: "))
-            if nilai == "":
-                print("Nilai tidak boleh kosong")
-            else:
-                break
-        except:
-            print("Harap Masukan Angka")
-        else:
-            break
-
+## Kode Eksepsinya
+![Gambar 1](skrinsut/ss1.png)
 Dengan menambahkan Eksepsi maka, ketika input data kosong akan diminta memasukkan data kembali & saat input NIM menggunakan huruf atau karakter maka program otomatis akan meminta untuk memasukkan angka.
 
-### Kurang lebih seperti ini tampilan nya.
-![Gambar 1](skrinsut/ss1.png)
+### Kurang lebih seperti ini tampilan nya
+![Gambar 2](skrinsut/ss2.png)
+
+### Panjang Umur Untuk Semua Hal-hal Baik :)
