@@ -30,4 +30,4 @@ while True:
 Dengan menambahkan Eksepsi maka, ketika input data kosong akan diminta memasukkan data kembali & saat input NIM menggunakan huruf atau karakter maka program otomatis akan meminta untuk memasukkan angka.
 
 ### Kurang lebih seperti ini tampilan nya.
-![img]skrinsut/ss1.png
+![Gambar 1](skrinsut/ss1.png)
